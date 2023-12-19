@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+    <Test_Infrastructure>
+        <UDID></UDID>
+        <APP_PACKAGE></APP_PACKAGE>
+        <APP_ACTIVITY></APP_ACTIVITY>
+        <APPIUM_SERVER>http://localhost:4723/wd/hub</APPIUM_SERVER>
+    </Test_Infrastructure>
+
+</Environment>

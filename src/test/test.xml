@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Example">
+
+    <listeners>
+        <listener class-name="utils.ScreenshotListener"> </listener>
+    </listeners>
+
+    <test name="Value retrieval from app into Google sheet">
+
+        <parameter name="header" value="header_value"/>
+
+        <classes>
+            <class name="test.ExampleTest"/>
+        </classes>
+    </test>
+
+</suite>

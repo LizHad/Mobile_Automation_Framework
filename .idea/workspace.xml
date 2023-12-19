@@ -5,12 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca37b09-6b36-4adf-bc5c-754db1197e66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Google_Sheets_API/GoogleSheetsIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Google_Sheets_API/GoogleSheetsIntegration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/object/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/object/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/object/ExampleAppPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/object/ExampleAppPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/AllureAttachment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/AllureAttachment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/RetryAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/RetryAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ScreenshotListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/ScreenshotListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "onboarding.tips.debug.path": "C:/Users/LizAv/IdeaProjects/Mobile_Automation_Framework/src/main/java/org/example/Main.java"
   }
